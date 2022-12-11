@@ -10,5 +10,5 @@ jobs:
     uses: bloop-box/reusable-workflows/.github/workflows/release-please.yml@main
     with:
       config-file: release.kibot.yml
-      board-file: pcb/BloopBox Tailboard.kicad_pcb
+      board-file: pcb/BloopBox Tailboard Light.kicad_pcb
 

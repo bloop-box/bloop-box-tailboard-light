@@ -15,7 +15,7 @@ jobs:
     uses: bloop-box/reusable-workflows/.github/workflows/kibot-check.yml@main
     with:
       config-file: kibot.yml
-      board-file: pcb/BloopBox Tailboard.kicad_pcb
+      board-file: pcb/BloopBox Tailboard Light.kicad_pcb
 
   docs:
     name: Docs
@@ -23,4 +23,4 @@ jobs:
     uses: bloop-box/reusable-workflows/.github/workflows/kibot-docs.yml@main
     with:
       config-file: kibot.yml
-      board-file: pcb/BloopBox Tailboard.kicad_pcb
+      board-file: pcb/BloopBox Tailboard Light.kicad_pcb
