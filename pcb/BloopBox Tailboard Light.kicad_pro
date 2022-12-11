@@ -358,7 +358,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BloopBox Tailboard.kicad_pro",
+    "filename": "BloopBox Tailboard Light.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -439,14 +439,6 @@
     [
       "e438430e-db74-47a4-be03-b7bd449bfe13",
       ""
-    ],
-    [
-      "1b44a7b4-b5f4-46d8-99d8-93dacc546a27",
-      "Buck Regulator"
-    ],
-    [
-      "8587232f-a474-4071-bc11-98a1506a86b8",
-      "Power Input Selector"
     ]
   ],
   "text_variables": {
