@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/bloop-box/bloop-box-tailboard-light/compare/v1.0.0...v1.0.1) (2024-08-14)
+
+
+### Bug Fixes
+
+* part number for connector ([f40f8fa](https://github.com/bloop-box/bloop-box-tailboard-light/commit/f40f8fac28fb2f19ac4a79f4a39b4e0c32ab63a6))
+
 ## 1.0.0 (2022-12-11)
 
 
